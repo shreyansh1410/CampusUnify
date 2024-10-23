@@ -22,7 +22,7 @@ export default function LandingPage() {
                 College event management, <br className="hidden sm:inline" />
                 simplified!
               </h1>
-              <p className="mt-2 text-sm sm:text-base md:text-lg">
+              <p className="hidden mt-2 text-sm sm:text-base md:text-lg">
                 Plan, promote, and manage college events with ease
               </p>
               <Link to="/login">
